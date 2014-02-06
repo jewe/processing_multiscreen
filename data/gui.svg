@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="281px"
+	 height="285px" viewBox="0 0 281 285" enable-background="new 0 0 281 285" xml:space="preserve">
+<g id="Background_1_">
+	<rect id="Background" x="0" fill="#F0F0F1" width="281" height="285"/>
+</g>
+<g id="Buttons">
+	<rect id="Button_1" x="22" y="30" fill="#8D938D" stroke="#000000" width="60" height="22"/>
+	<rect id="Button_2" x="22" y="60" fill="#8D938D" stroke="#000000" width="60" height="22"/>
+	<rect id="Button_3" x="22" y="90" fill="#8D938D" stroke="#000000" width="60" height="22"/>
+</g>
+<g id="Foreground">
+	<line fill="none" stroke="#000000" x1="29" y1="181" x2="29" y2="241"/>
+	<line fill="none" stroke="#000000" x1="40" y1="181" x2="40" y2="241"/>
+	<line fill="none" stroke="#000000" x1="52" y1="181" x2="52" y2="241"/>
+</g>
+</svg>
